@@ -4,6 +4,7 @@ title:  "CSS Chevron bar"
 subtitle: 
 date:   2016-06-10 10:00:13
 background: '/img/posts/css.jpg'
+tags: css sass ui
 ---
 I’ve been messing around with a ChevronBar to display progress through a workflow or wizard.
 
