@@ -1,3 +1,10 @@
+# SITE CONFIGURATION
+baseurl: "/"
+url: "https://splaine.github.io"
+title: Simon Phillips (spSlaine) # site's title
+description: "A website with blog posts and pages" # used by search engines
 name: Simon Phillips (spSlaine)
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+# BUILD SETTINGS
+markdown: kramdown
