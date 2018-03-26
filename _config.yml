@@ -4,6 +4,7 @@ baseurl: ""
 url: "https://splaine.github.io"
 description: "A website with blog posts and pages" # used by search engines
 name: Simon Phillips (spSlaine)
+author: Simon Phillips
 
 # Social Profiles
 twitter_username:  sphillips
