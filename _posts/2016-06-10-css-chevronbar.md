@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "CSS Chevron bar"
+subtitle: 
+date:   2016-06-10 10:00:13
+background: '/img/posts/css.jpg'
+---
 I’ve been messing around with a ChevronBar to display progress through a workflow or wizard.
 
 The first version was based on CSS and sprites, but I want a way of easily changing the colours of the steps. I based the following on https://github.com/twslankard/css-chevron-bar.
