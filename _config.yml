@@ -1,2 +1,3 @@
 name: Simon Phillips (spSlaine)
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
