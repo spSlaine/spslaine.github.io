@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Doing stuff with SharePoint"
-subtitle: 
-date:   2018-04-14 09:02:00
-background: '/img/posts/css.jpg'
-tags: sharepoint
----
-## Hello this is a test
